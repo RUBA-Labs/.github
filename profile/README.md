@@ -35,9 +35,9 @@ We are a group of students from the **University of Peradeniya**, passionate abo
 
 ## 📬 Contact Us  
 Have a question or an idea? Let's connect!  
-📌 GitHub: https://github.com/Ravindu-Sampath-Weerakoon
-📌 GitHub: https://github.com/UdithaWijethunga
-📌 GitHub: https://github.com/GeethanjanaWijesena
-📌 GitHub: https://github.com/IamBhathiya
+ - 📌 GitHub: https://github.com/Ravindu-Sampath-Weerakoon
+ - 📌 GitHub: https://github.com/UdithaWijethunga
+ - 📌 GitHub: https://github.com/GeethanjanaWijesena
+ - 📌 GitHub: https://github.com/IamBhathiya
 
 > 🌟 **"Building the future, one project at a time!"**
