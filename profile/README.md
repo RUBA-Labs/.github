@@ -18,14 +18,8 @@ RUBA Labs is a collaborative hub where passion meets purpose. We specialize in:
 ## 🚀 Projects and Repositories  
 
 ### 📘 [Project Meeting Log (CSC3213)](https://github.com/RUBA-Labs/Project-Meeting-Log-CSC3213)  
-**Description**: Continuous project meeting logs for better collaboration and tracking.
-
----
 
 ### 📘 [Documentation Project (CSC3213)](https://github.com/RUBA-Labs/Documentation-Project--CSC3213)  
-**Description**: Comprehensive documentation to support our ongoing projects.
-
----
 
 ### 📘 [Frontend for Resource Management System (CSC3213)](https://github.com/RUBA-Labs/frontend-CSC3213)  
 **Description**:  
