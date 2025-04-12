@@ -30,11 +30,6 @@ RUBA Labs is a collaborative hub where passion meets purpose. We specialize in:
 
 ---
 
-### 📘 [Organization Repository (.github)](https://github.com/RUBA-Labs/.github)  
-**Description**: Central repository for organizational settings and documentation.
-
----
-
 ## 🛠️ Technologies We Use  
 
 Here are some of the programming languages, tools, and frameworks we specialize in:
