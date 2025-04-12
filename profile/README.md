@@ -68,7 +68,7 @@ We'd love to hear from you! Reach out to our team members:
 | Ravindu Sampath Weerakoon | [Visit Profile](https://github.com/Ravindu-Sampath-Weerakoon) |  
 | Uditha Wijethunga | [Visit Profile](https://github.com/UdithaWijethunga) |  
 | Geethanjana Wijesena | [Visit Profile](https://github.com/GeethanjanaWijesena) |  
-| Bhathiya | [Visit Profile](https://github.com/IamBhathiya) |  
+| Bhathiya Piyathissa | [Visit Profile](https://github.com/IamBhathiya) |  
 
 ---
 
